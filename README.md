@@ -9,7 +9,4 @@ Rio is a framework written in AS3, targeted for developing rapid and stable gui 
 
 The framework itself has a few off the shelf ready components but the main goal with the framework is to extend the abstract classes and make you own components.
 
-
-Requirements
--------
-AS3
+**Please not that this library is here for historical purposes, it is no longer maintained**
